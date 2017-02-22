@@ -1,0 +1,22 @@
+{
+  "name": "web-project-config",
+  "version": "1.0.0",
+  "description": "Boilerplate config files for a new web app.",
+  "scripts": {
+    "tslint": "node ./node_modules/tslint/bin/tslint --project ./tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigie/web-project-config.git"
+  },
+  "author": "mattcritchlow@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigie/web-project-config/issues"
+  },
+  "homepage": "https://github.com/vigie/web-project-config#readme",
+  "devDependencies": {
+    "tslint": "^4.4.2",
+    "typescript": "^2.1.6"
+  }
+}
